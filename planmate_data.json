@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:04:45.997902Z",
+  "updatedAt": "2026-08-19T10:05:09.896063Z",
   "categories": [
     {
       "id": "work",
@@ -142,8 +142,8 @@
       "date": "2026-08-19",
       "rating": 5,
       "note": "",
-      "actualStart": null,
-      "actualEnd": null,
+      "actualStart": "14:30",
+      "actualEnd": "17:00",
       "unplanned": false,
       "title": "制作记账app"
     }
