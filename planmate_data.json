@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:17:29.755590Z",
+  "updatedAt": "2026-08-19T10:17:50.383786Z",
   "categories": [
     {
       "id": "work",
@@ -220,6 +220,19 @@
       "endTime": "23:01",
       "deleted": false,
       "createdAt": "2026-08-19T18:14:52.356216"
+    },
+    {
+      "id": "f2166cdb-dff2-4082-978d-7c33ef6dadff",
+      "title": "煮饭",
+      "categoryId": "1ced22d6-0556-4c6d-a66d-5c2b79fc8719",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-20T00:00:00.000",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:17:50.383780"
     }
   ],
   "reviews": [
