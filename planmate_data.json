@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:13:28.030429Z",
+  "updatedAt": "2026-08-19T10:13:51.975775Z",
   "categories": [
     {
       "id": "work",
@@ -194,6 +194,19 @@
       "endTime": "15:00",
       "deleted": false,
       "createdAt": "2026-08-19T18:13:14.266989"
+    },
+    {
+      "id": "0dc6c441-428a-4461-b932-c2ea09024cc6",
+      "title": "玩游戏",
+      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-20T00:00:00.000",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:13:49.182236"
     }
   ],
   "reviews": [
