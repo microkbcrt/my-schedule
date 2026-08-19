@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T11:23:21.230758Z",
+  "updatedAt": "2026-08-19T13:31:10.152781Z",
   "categories": [
     {
       "id": "work",
@@ -197,7 +197,7 @@
     },
     {
       "id": "0dc6c441-428a-4461-b932-c2ea09024cc6",
-      "title": "玩游戏",
+      "title": "制作服务器宣传视频",
       "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
       "recurrence": "once",
       "weekdays": [],
