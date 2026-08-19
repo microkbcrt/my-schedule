@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:31:40.500959Z",
+  "updatedAt": "2026-08-19T04:34:55.071531Z",
   "categories": [
     {
       "id": "work",
@@ -62,7 +62,7 @@
     },
     {
       "id": "afec3ae8-ee4a-4810-8b66-2f5279c9c6ac",
-      "title": "继续完善计划app",
+      "title": "制作记账app",
       "categoryId": "work",
       "recurrence": "once",
       "weekdays": [],
