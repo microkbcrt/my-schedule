@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:16:56.641060Z",
+  "updatedAt": "2026-08-19T10:17:29.755590Z",
   "categories": [
     {
       "id": "work",
@@ -95,7 +95,7 @@
       "id": "e10da0aa-97d1-4422-92b2-ecc64166c8d1",
       "title": "煮饭",
       "categoryId": "1ced22d6-0556-4c6d-a66d-5c2b79fc8719",
-      "recurrence": "daily",
+      "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
       "date": "2026-08-19T00:00:00.000",
