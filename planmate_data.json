@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:07:21.255067Z",
+  "updatedAt": "2026-08-19T10:07:33.300342Z",
   "categories": [
     {
       "id": "work",
@@ -120,7 +120,7 @@
     {
       "id": "1a6654cd-6c80-4abc-91dc-82043527cfb2",
       "title": "检查妹妹所有作业",
-      "categoryId": "study",
+      "categoryId": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
       "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
