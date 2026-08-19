@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:13:14.266994Z",
+  "updatedAt": "2026-08-19T10:13:28.030429Z",
   "categories": [
     {
       "id": "work",
@@ -184,8 +184,8 @@
     },
     {
       "id": "129b9606-fa4e-46e9-bd07-3e109ece75f6",
-      "title": "玩我的世界",
-      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "title": "辅导妹妹做作业",
+      "categoryId": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
       "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
