@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:36:32.122961Z",
+  "updatedAt": "2026-08-19T04:38:31.218805Z",
   "categories": [
     {
       "id": "work",
@@ -75,7 +75,7 @@
     },
     {
       "id": "5964cd9d-bf7a-426c-acc6-8a7e9ba5178f",
-      "title": "phigros自制谱-希望与梦想之原",
+      "title": "辅导妹妹做作业",
       "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
       "recurrence": "once",
       "weekdays": [],
