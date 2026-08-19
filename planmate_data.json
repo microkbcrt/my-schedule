@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-18T16:12:10.054854Z",
+  "categories": [
+    {
+      "id": "work",
+      "name": "工作",
+      "color": 4282090230
+    },
+    {
+      "id": "study",
+      "name": "学习",
+      "color": 4279286145
+    },
+    {
+      "id": "sport",
+      "name": "运动",
+      "color": 4294286859
+    },
+    {
+      "id": "life",
+      "name": "生活",
+      "color": 4293675161
+    },
+    {
+      "id": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "name": "游戏",
+      "color": 4287323382
+    }
+  ],
+  "events": [
+    {
+      "id": "1bc919bf-bc3d-4a80-9250-18607d887873",
+      "title": "完成惠州学院信息收集",
+      "categoryId": "study",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-19T00:00:00.000",
+      "startTime": "10:00",
+      "endTime": "10:15",
+      "deleted": false,
+      "createdAt": "2026-08-18T23:54:58.657569"
+    },
+    {
+      "id": "d3731895-52a0-45f7-965e-f3f3b9a15092",
+      "title": "惠州学院易班学前教育学习",
+      "categoryId": "study",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-19T00:00:00.000",
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "deleted": false,
+      "createdAt": "2026-08-18T23:55:51.971532"
+    },
+    {
+      "id": "afec3ae8-ee4a-4810-8b66-2f5279c9c6ac",
+      "title": "继续完善计划app",
+      "categoryId": "work",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-19T00:00:00.000",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "deleted": false,
+      "createdAt": "2026-08-18T23:57:12.744582"
+    },
+    {
+      "id": "5964cd9d-bf7a-426c-acc6-8a7e9ba5178f",
+      "title": "phigros自制谱-希望与梦想之原",
+      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-19T00:00:00.000",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "deleted": false,
+      "createdAt": "2026-08-18T23:58:03.537532"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "2fc5153e-b7a2-46c5-9b70-3cee31072906",
+      "eventId": "1bc919bf-bc3d-4a80-9250-18607d887873",
+      "date": "2026-08-19",
+      "rating": 1,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "完成惠州学院信息收集"
+    }
+  ]
+}
