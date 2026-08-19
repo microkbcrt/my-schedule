@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:05:09.896063Z",
+  "updatedAt": "2026-08-19T10:05:18.682805Z",
   "categories": [
     {
       "id": "work",
@@ -146,6 +146,17 @@
       "actualEnd": "17:00",
       "unplanned": false,
       "title": "制作记账app"
+    },
+    {
+      "id": "4f2e4db6-b5de-455f-8aed-4a75bcdc041e",
+      "eventId": "5964cd9d-bf7a-426c-acc6-8a7e9ba5178f",
+      "date": "2026-08-19",
+      "rating": 1,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "辅导妹妹做作业"
     }
   ]
 }
