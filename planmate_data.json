@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T03:34:32.016610Z",
+  "updatedAt": "2026-08-19T04:04:17.330318Z",
   "categories": [
     {
       "id": "work",
@@ -98,7 +98,7 @@
       "id": "897a060c-90e8-44a4-a95c-5459f4750d1f",
       "eventId": "d3731895-52a0-45f7-965e-f3f3b9a15092",
       "date": "2026-08-19",
-      "rating": 4,
+      "rating": 5,
       "note": "已经考完试",
       "actualStart": null,
       "actualEnd": null,
