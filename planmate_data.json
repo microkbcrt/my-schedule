@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:10:22.647598Z",
+  "updatedAt": "2026-08-19T10:11:01.750051Z",
   "categories": [
     {
       "id": "work",
@@ -155,6 +155,19 @@
       "endTime": "12:00",
       "deleted": false,
       "createdAt": "2026-08-19T18:10:22.647594"
+    },
+    {
+      "id": "7ad8b6df-cefd-4ed4-b506-478f0913b910",
+      "title": "午睡",
+      "categoryId": "life",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-20T00:00:00.000",
+      "startTime": "13:30",
+      "endTime": "14:00",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:11:01.750047"
     }
   ],
   "reviews": [
