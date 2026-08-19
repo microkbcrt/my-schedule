@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:21:07.574947Z",
+  "updatedAt": "2026-08-19T11:23:21.230758Z",
   "categories": [
     {
       "id": "work",
@@ -279,6 +279,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "辅导妹妹做作业"
+    },
+    {
+      "id": "f338f85a-7241-4554-a3fe-7bc633952042",
+      "eventId": "e10da0aa-97d1-4422-92b2-ecc64166c8d1",
+      "date": "2026-08-19",
+      "rating": 1,
+      "note": "明天再煮",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "煮饭"
     }
   ]
 }
