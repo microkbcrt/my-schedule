@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T16:12:10.054854Z",
+  "updatedAt": "2026-08-19T02:24:04.902718Z",
   "categories": [
     {
       "id": "work",
@@ -87,7 +87,7 @@
       "id": "2fc5153e-b7a2-46c5-9b70-3cee31072906",
       "eventId": "1bc919bf-bc3d-4a80-9250-18607d887873",
       "date": "2026-08-19",
-      "rating": 1,
+      "rating": 5,
       "note": "",
       "actualStart": null,
       "actualEnd": null,
