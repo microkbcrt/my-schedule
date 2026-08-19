@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:08:28.310572Z",
+  "updatedAt": "2026-08-19T10:08:45.588482Z",
   "categories": [
     {
       "id": "work",
@@ -129,6 +129,19 @@
       "endTime": "10:00",
       "deleted": false,
       "createdAt": "2026-08-19T18:07:04.058258"
+    },
+    {
+      "id": "36bde8b1-fa14-483e-995a-dd37e6b67432",
+      "title": "检查妹妹作业",
+      "categoryId": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-20T00:00:00.000",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:08:45.588474"
     }
   ],
   "reviews": [
