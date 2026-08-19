@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:07:11.494805Z",
+  "updatedAt": "2026-08-19T10:07:21.255067Z",
   "categories": [
     {
       "id": "work",
@@ -31,6 +31,11 @@
       "id": "1ced22d6-0556-4c6d-a66d-5c2b79fc8719",
       "name": "家务",
       "color": 4294538006
+    },
+    {
+      "id": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
+      "name": "辅导",
+      "color": 4293870660
     }
   ],
   "events": [
@@ -76,7 +81,7 @@
     {
       "id": "5964cd9d-bf7a-426c-acc6-8a7e9ba5178f",
       "title": "辅导妹妹做作业",
-      "categoryId": "study",
+      "categoryId": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
       "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
