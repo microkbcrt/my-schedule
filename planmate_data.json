@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T02:24:04.902718Z",
+  "updatedAt": "2026-08-19T03:07:34.643482Z",
   "categories": [
     {
       "id": "work",
@@ -93,6 +93,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "完成惠州学院信息收集"
+    },
+    {
+      "id": "897a060c-90e8-44a4-a95c-5459f4750d1f",
+      "eventId": "d3731895-52a0-45f7-965e-f3f3b9a15092",
+      "date": "2026-08-19",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "惠州学院易班学前教育学习"
     }
   ]
 }
