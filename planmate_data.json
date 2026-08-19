@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:05:18.682805Z",
+  "updatedAt": "2026-08-19T10:05:38.822902Z",
   "categories": [
     {
       "id": "work",
@@ -152,7 +152,7 @@
       "eventId": "5964cd9d-bf7a-426c-acc6-8a7e9ba5178f",
       "date": "2026-08-19",
       "rating": 1,
-      "note": "",
+      "note": "做记账app去了，加上有点头痛",
       "actualStart": null,
       "actualEnd": null,
       "unplanned": false,
