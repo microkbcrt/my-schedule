@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:39:03.914886Z",
+  "updatedAt": "2026-08-19T07:10:32.123655Z",
   "categories": [
     {
       "id": "work",
@@ -135,6 +135,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "惠州学院易班学前教育学习"
+    },
+    {
+      "id": "26d00f2e-3350-4b03-bce0-7c7c4839a634",
+      "eventId": "afec3ae8-ee4a-4810-8b66-2f5279c9c6ac",
+      "date": "2026-08-19",
+      "rating": 3,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "制作记账app"
     }
   ]
 }
