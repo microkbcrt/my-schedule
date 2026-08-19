@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:11:01.750051Z",
+  "updatedAt": "2026-08-19T10:11:34.897539Z",
   "categories": [
     {
       "id": "work",
@@ -168,6 +168,19 @@
       "endTime": "14:00",
       "deleted": false,
       "createdAt": "2026-08-19T18:11:01.750047"
+    },
+    {
+      "id": "53a51262-b524-463f-a0cf-f351856dd4c8",
+      "title": "睡觉",
+      "categoryId": "life",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-19T00:00:00.000",
+      "startTime": "23:00",
+      "endTime": "23:01",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:11:34.897536"
     }
   ],
   "reviews": [
