@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:11:34.897539Z",
+  "updatedAt": "2026-08-19T10:13:14.266994Z",
   "categories": [
     {
       "id": "work",
@@ -181,6 +181,19 @@
       "endTime": "23:01",
       "deleted": false,
       "createdAt": "2026-08-19T18:11:34.897536"
+    },
+    {
+      "id": "129b9606-fa4e-46e9-bd07-3e109ece75f6",
+      "title": "玩我的世界",
+      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-20T00:00:00.000",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "deleted": false,
+      "createdAt": "2026-08-19T18:13:14.266989"
     }
   ],
   "reviews": [
