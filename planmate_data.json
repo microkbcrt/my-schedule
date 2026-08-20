@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T04:46:35.396308Z",
+  "updatedAt": "2026-08-20T10:28:44.921436Z",
   "categories": [
     {
       "id": "work",
@@ -334,6 +334,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "制谱-希望与梦想之原"
+    },
+    {
+      "id": "50f8a334-86e4-45ec-8972-aac5ce096598",
+      "eventId": "7ad8b6df-cefd-4ed4-b506-478f0913b910",
+      "date": "2026-08-20",
+      "rating": 4,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "午睡"
     }
   ]
 }
