@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:21:46.799047Z",
+  "updatedAt": "2026-08-20T16:21:52.352561Z",
   "categories": [
     {
       "id": "work",
@@ -289,7 +289,7 @@
     {
       "id": "968037eb-e23a-40a4-a6a9-f0fab99c1ad1",
       "title": "午睡",
-      "categoryId": "work",
+      "categoryId": "life",
       "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
