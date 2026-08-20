@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:16:38.827257Z",
+  "updatedAt": "2026-08-20T16:16:06.831629Z",
   "categories": [
     {
       "id": "work",
@@ -378,6 +378,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "煮饭"
+    },
+    {
+      "id": "42830449-c1ba-4e6d-a270-2d48ee624343",
+      "eventId": "e1322ab5-4dc5-44f7-a1a2-17913268ac42",
+      "date": "2026-08-20",
+      "rating": 1,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "睡觉"
     }
   ]
 }
