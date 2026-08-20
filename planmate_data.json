@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T10:28:44.921436Z",
+  "updatedAt": "2026-08-20T10:28:53.130520Z",
   "categories": [
     {
       "id": "work",
@@ -341,10 +341,21 @@
       "date": "2026-08-20",
       "rating": 4,
       "note": "",
+      "actualStart": "13:30",
+      "actualEnd": "15:00",
+      "unplanned": false,
+      "title": "午睡"
+    },
+    {
+      "id": "456b118e-b3cb-486e-8edb-1e888d3a8e95",
+      "eventId": "129b9606-fa4e-46e9-bd07-3e109ece75f6",
+      "date": "2026-08-20",
+      "rating": 1,
+      "note": "",
       "actualStart": null,
       "actualEnd": null,
       "unplanned": false,
-      "title": "午睡"
+      "title": "辅导妹妹做作业"
     }
   ]
 }
