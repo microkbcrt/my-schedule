@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T10:28:53.130520Z",
+  "updatedAt": "2026-08-20T10:28:58.011582Z",
   "categories": [
     {
       "id": "work",
@@ -351,7 +351,7 @@
       "eventId": "129b9606-fa4e-46e9-bd07-3e109ece75f6",
       "date": "2026-08-20",
       "rating": 1,
-      "note": "",
+      "note": "睡午觉了",
       "actualStart": null,
       "actualEnd": null,
       "unplanned": false,
