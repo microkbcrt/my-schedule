@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:21:52.352561Z",
+  "updatedAt": "2026-08-20T16:22:52.871333Z",
   "categories": [
     {
       "id": "work",
@@ -298,6 +298,19 @@
       "endTime": "14:15",
       "deleted": false,
       "createdAt": "2026-08-21T00:21:46.799043"
+    },
+    {
+      "id": "c05dab47-eb24-48c9-b133-9c0417b43cb5",
+      "title": "玩原神做任务",
+      "categoryId": "work",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-21T00:00:00.000",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "deleted": false,
+      "createdAt": "2026-08-21T00:22:52.871330"
     }
   ],
   "reviews": [
