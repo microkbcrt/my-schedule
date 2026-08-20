@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:17:15.877379Z",
+  "updatedAt": "2026-08-20T16:17:54.632621Z",
   "categories": [
     {
       "id": "work",
@@ -259,6 +259,19 @@
       "endTime": "11:00",
       "deleted": false,
       "createdAt": "2026-08-21T00:16:57.481136"
+    },
+    {
+      "id": "e6663b19-7ba1-45fb-90bf-e143cd6df5d5",
+      "title": "放松，玩音游",
+      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-21T00:00:00.000",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "deleted": false,
+      "createdAt": "2026-08-21T00:17:50.661355"
     }
   ],
   "reviews": [
