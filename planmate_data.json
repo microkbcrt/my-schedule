@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T10:29:02.513899Z",
+  "updatedAt": "2026-08-20T14:16:38.827257Z",
   "categories": [
     {
       "id": "work",
@@ -367,6 +367,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "制作服务器宣传视频"
+    },
+    {
+      "id": "99883594-fe38-458f-903f-08e57cf456de",
+      "eventId": "f2166cdb-dff2-4082-978d-7c33ef6dadff",
+      "date": "2026-08-20",
+      "rating": 1,
+      "note": "妈妈煮了",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "煮饭"
     }
   ]
 }
