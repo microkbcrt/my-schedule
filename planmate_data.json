@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T01:33:47.283865Z",
+  "updatedAt": "2026-08-20T01:34:10.641517Z",
   "categories": [
     {
       "id": "work",
@@ -297,8 +297,8 @@
       "date": "2026-08-19",
       "rating": 2,
       "note": "晚了一个小时因为跟爸爸分享编程和做原神委托任务",
-      "actualStart": null,
-      "actualEnd": null,
+      "actualStart": "00:00",
+      "actualEnd": "09:20",
       "unplanned": false,
       "title": "睡觉"
     }
