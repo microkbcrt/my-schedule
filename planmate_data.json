@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:23:35.889021Z",
+  "updatedAt": "2026-08-20T16:28:36.922939Z",
   "categories": [
     {
       "id": "work",
@@ -324,6 +324,19 @@
       "endTime": "17:00",
       "deleted": false,
       "createdAt": "2026-08-21T00:23:29.193953"
+    },
+    {
+      "id": "bde7cf4e-004b-4839-b628-d17c7a29e6eb",
+      "title": "玩我的世界，建完地铁",
+      "categoryId": "4284e1b0-f511-4b44-98c5-6d433f4b120d",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-21T00:00:00.000",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "deleted": false,
+      "createdAt": "2026-08-21T00:28:36.922935"
     }
   ],
   "reviews": [
