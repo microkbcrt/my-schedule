@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T01:34:10.641517Z",
+  "updatedAt": "2026-08-20T04:46:35.396308Z",
   "categories": [
     {
       "id": "work",
@@ -301,6 +301,39 @@
       "actualEnd": "09:20",
       "unplanned": false,
       "title": "睡觉"
+    },
+    {
+      "id": "0b888163-1493-4515-a9ac-6f4fdbea39ff",
+      "eventId": "1a6654cd-6c80-4abc-91dc-82043527cfb2",
+      "date": "2026-08-20",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "起床吃早餐"
+    },
+    {
+      "id": "15beb4ec-c709-4af0-b879-55211775bb71",
+      "eventId": "36bde8b1-fa14-483e-995a-dd37e6b67432",
+      "date": "2026-08-20",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "学Python"
+    },
+    {
+      "id": "3530b2f3-eefe-49e2-afb1-56cc1beec93f",
+      "eventId": "0ca7be82-932d-448b-ba34-84c0606c9d16",
+      "date": "2026-08-20",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "制谱-希望与梦想之原"
     }
   ]
 }
