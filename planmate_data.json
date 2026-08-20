@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T17:13:56.033823Z",
+  "updatedAt": "2026-08-20T01:33:47.283865Z",
   "categories": [
     {
       "id": "work",
@@ -290,6 +290,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "煮饭"
+    },
+    {
+      "id": "1eff6730-d018-43cf-95d3-34208910a8cc",
+      "eventId": "53a51262-b524-463f-a0cf-f351856dd4c8",
+      "date": "2026-08-19",
+      "rating": 2,
+      "note": "晚了一个小时因为跟爸爸分享编程和做原神委托任务",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "睡觉"
     }
   ]
 }
