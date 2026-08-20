@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:17:01.302062Z",
+  "updatedAt": "2026-08-20T16:17:15.877379Z",
   "categories": [
     {
       "id": "work",
@@ -133,7 +133,7 @@
     {
       "id": "36bde8b1-fa14-483e-995a-dd37e6b67432",
       "title": "学Python",
-      "categoryId": "c1bf6a3f-7eba-4413-a6da-8dd8f4f502a9",
+      "categoryId": "study",
       "recurrence": "once",
       "weekdays": [],
       "monthDay": null,
