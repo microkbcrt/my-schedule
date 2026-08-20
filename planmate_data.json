@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:16:39.778860Z",
+  "updatedAt": "2026-08-20T16:17:01.302062Z",
   "categories": [
     {
       "id": "work",
@@ -246,6 +246,19 @@
       "endTime": "10:00",
       "deleted": false,
       "createdAt": "2026-08-21T00:16:36.851201"
+    },
+    {
+      "id": "4243e019-0c7d-4643-809b-a38d8fe35dd9",
+      "title": "学Python",
+      "categoryId": "study",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-21T00:00:00.000",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "deleted": false,
+      "createdAt": "2026-08-21T00:16:57.481136"
     }
   ],
   "reviews": [
