@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:16:06.831629Z",
+  "updatedAt": "2026-08-20T16:16:39.778860Z",
   "categories": [
     {
       "id": "work",
@@ -233,6 +233,19 @@
       "endTime": "18:30",
       "deleted": false,
       "createdAt": "2026-08-19T18:17:50.383780"
+    },
+    {
+      "id": "7669497c-def7-41ff-a67a-161bce390a6c",
+      "title": "起床吃早餐",
+      "categoryId": "life",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-21T00:00:00.000",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "deleted": false,
+      "createdAt": "2026-08-21T00:16:36.851201"
     }
   ],
   "reviews": [
