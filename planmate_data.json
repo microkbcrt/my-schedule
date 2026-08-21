@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T12:48:26.351377Z",
+  "updatedAt": "2026-08-21T12:48:33.308609Z",
   "categories": [
     {
       "id": "work",
@@ -583,6 +583,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "剪辑我的世界服务器视频"
+    },
+    {
+      "id": "c382957e-f50a-496d-8867-a7150223e169",
+      "eventId": "32085029-1054-4f9a-af21-129e83b3587d",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "睡觉"
     }
   ]
 }
