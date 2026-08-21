@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T12:47:38.667089Z",
+  "updatedAt": "2026-08-21T12:48:26.351377Z",
   "categories": [
     {
       "id": "work",
@@ -506,6 +506,83 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "睡觉"
+    },
+    {
+      "id": "0385b485-62f7-4f4e-a708-bf3f16702ac6",
+      "eventId": "7669497c-def7-41ff-a67a-161bce390a6c",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "睡晚了",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "起床吃早餐"
+    },
+    {
+      "id": "f1c1ba60-f44e-40e0-b84c-760a47d9c6f0",
+      "eventId": "4243e019-0c7d-4643-809b-a38d8fe35dd9",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "写背单词软件了",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "学Python"
+    },
+    {
+      "id": "a01079e0-6016-4bac-904b-a9afac74a6ac",
+      "eventId": "e6663b19-7ba1-45fb-90bf-e143cd6df5d5",
+      "date": "2026-08-21",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "放松，玩音游"
+    },
+    {
+      "id": "d3393d23-ac7f-4286-9387-0fbd4c2e4c58",
+      "eventId": "609fb8d0-e7c5-41f2-986b-ce0536b6bfe6",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "忘记了",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "煮饭"
+    },
+    {
+      "id": "2d8a2eb6-c517-4ccf-b3fa-5f2238f2782b",
+      "eventId": "968037eb-e23a-40a4-a6a9-f0fab99c1ad1",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "晚了",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "午睡"
+    },
+    {
+      "id": "b4dd7168-d02e-45cf-960b-09acd432f4fe",
+      "eventId": "c05dab47-eb24-48c9-b133-9c0417b43cb5",
+      "date": "2026-08-21",
+      "rating": 0,
+      "note": "一直在写背单词软件",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "玩原神做任务"
+    },
+    {
+      "id": "a6158ccb-119f-4dd2-a9c7-12d24fbbdb67",
+      "eventId": "3cad33f2-9f74-4955-bd0c-eb0c6c3c39c7",
+      "date": "2026-08-21",
+      "rating": 0,
+      "note": "一直在写背单词软件",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "剪辑我的世界服务器视频"
     }
   ]
 }
