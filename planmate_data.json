@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T12:48:33.308609Z",
+  "updatedAt": "2026-08-21T12:49:00.609921Z",
   "categories": [
     {
       "id": "work",
@@ -566,7 +566,7 @@
       "id": "b4dd7168-d02e-45cf-960b-09acd432f4fe",
       "eventId": "c05dab47-eb24-48c9-b133-9c0417b43cb5",
       "date": "2026-08-21",
-      "rating": 0,
+      "rating": 1,
       "note": "一直在写背单词软件",
       "actualStart": null,
       "actualEnd": null,
@@ -577,7 +577,7 @@
       "id": "a6158ccb-119f-4dd2-a9c7-12d24fbbdb67",
       "eventId": "3cad33f2-9f74-4955-bd0c-eb0c6c3c39c7",
       "date": "2026-08-21",
-      "rating": 0,
+      "rating": 1,
       "note": "一直在写背单词软件",
       "actualStart": null,
       "actualEnd": null,
