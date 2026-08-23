@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T12:49:00.609921Z",
+  "updatedAt": "2026-08-23T16:11:28.857632Z",
   "categories": [
     {
       "id": "work",
@@ -594,6 +594,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "睡觉"
+    },
+    {
+      "id": "89bab930-1320-4fd2-9a4a-3daf9cf35bf5",
+      "eventId": "bde7cf4e-004b-4839-b628-d17c7a29e6eb",
+      "date": "2026-08-21",
+      "rating": 1,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "玩我的世界，建完地铁"
     }
   ]
 }
