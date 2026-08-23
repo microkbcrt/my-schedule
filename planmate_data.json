@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T16:12:23.091442Z",
+  "updatedAt": "2026-08-23T16:12:27.898649Z",
   "categories": [
     {
       "id": "work",
@@ -636,6 +636,17 @@
       "id": "6ca4f432-fc92-4c97-a0c3-4710f45cc2b7",
       "eventId": "3b9c5a68-1746-47f9-b81d-d8161a2230b6",
       "date": "2026-08-22",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "89中自制谱"
+    },
+    {
+      "id": "86a94310-83fb-4275-b595-3f52288e9ed3",
+      "eventId": "e0e651c5-80c3-4d02-973a-538d4b842569",
+      "date": "2026-08-23",
       "rating": 5,
       "note": "",
       "actualStart": null,
