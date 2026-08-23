@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T16:12:07.256722Z",
+  "updatedAt": "2026-08-23T16:12:23.091442Z",
   "categories": [
     {
       "id": "work",
@@ -363,6 +363,19 @@
       "endTime": "22:00",
       "deleted": false,
       "createdAt": "2026-08-24T00:12:05.006968"
+    },
+    {
+      "id": "e0e651c5-80c3-4d02-973a-538d4b842569",
+      "title": "89中自制谱",
+      "categoryId": "work",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-23T00:00:00.000",
+      "startTime": "09:00",
+      "endTime": "22:00",
+      "deleted": false,
+      "createdAt": "2026-08-24T00:12:23.091437"
     }
   ],
   "reviews": [
