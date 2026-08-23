@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T16:11:28.857632Z",
+  "updatedAt": "2026-08-23T16:12:07.256722Z",
   "categories": [
     {
       "id": "work",
@@ -350,6 +350,19 @@
       "endTime": "07:30",
       "deleted": false,
       "createdAt": "2026-08-21T20:47:07.071886"
+    },
+    {
+      "id": "3b9c5a68-1746-47f9-b81d-d8161a2230b6",
+      "title": "89中自制谱",
+      "categoryId": "work",
+      "recurrence": "once",
+      "weekdays": [],
+      "monthDay": null,
+      "date": "2026-08-22T00:00:00.000",
+      "startTime": "09:00",
+      "endTime": "22:00",
+      "deleted": false,
+      "createdAt": "2026-08-24T00:12:05.006968"
     }
   ],
   "reviews": [
@@ -605,6 +618,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "玩我的世界，建完地铁"
+    },
+    {
+      "id": "6ca4f432-fc92-4c97-a0c3-4710f45cc2b7",
+      "eventId": "3b9c5a68-1746-47f9-b81d-d8161a2230b6",
+      "date": "2026-08-22",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "89中自制谱"
     }
   ]
 }
