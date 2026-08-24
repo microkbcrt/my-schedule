@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T17:17:40.047375Z",
+  "updatedAt": "2026-08-24T05:58:21.607521Z",
   "categories": [
     {
       "id": "work",
@@ -666,6 +666,17 @@
       "actualEnd": null,
       "unplanned": false,
       "title": "89中自制谱"
+    },
+    {
+      "id": "f472f633-39ff-4239-b6ee-22ca8f788b90",
+      "eventId": "165efe20-fd9b-4788-a77a-01bedb865f2f",
+      "date": "2026-08-24",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "煮饭"
     }
   ]
 }
