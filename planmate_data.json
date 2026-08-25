@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T06:49:03.876646Z",
+  "updatedAt": "2026-08-25T06:49:13.469472Z",
   "categories": [
     {
       "id": "work",
@@ -399,7 +399,7 @@
       "monthDay": null,
       "date": "2026-08-25T00:00:00.000",
       "startTime": "15:00",
-      "endTime": "16:00",
+      "endTime": "17:00",
       "deleted": false,
       "createdAt": "2026-08-25T14:49:00.280483"
     }
