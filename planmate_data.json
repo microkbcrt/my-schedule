@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T06:49:45.241190Z",
+  "updatedAt": "2026-08-25T11:24:19.061575Z",
   "categories": [
     {
       "id": "work",
@@ -697,6 +697,28 @@
       "id": "f472f633-39ff-4239-b6ee-22ca8f788b90",
       "eventId": "165efe20-fd9b-4788-a77a-01bedb865f2f",
       "date": "2026-08-24",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "煮饭"
+    },
+    {
+      "id": "2251e2f4-68a8-429f-8873-1dcb8dcd7f8c",
+      "eventId": "b5e0aadd-52ed-4d42-9256-06c3f8b51b20",
+      "date": "2026-08-25",
+      "rating": 5,
+      "note": "",
+      "actualStart": null,
+      "actualEnd": null,
+      "unplanned": false,
+      "title": "学习python"
+    },
+    {
+      "id": "cf2593bf-9c5b-43f1-87bf-875d14419694",
+      "eventId": "697ce454-57f3-463b-bcff-ca11fc44515a",
+      "date": "2026-08-25",
       "rating": 5,
       "note": "",
       "actualStart": null,
